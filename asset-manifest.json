@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/runnies_dapp_sol/static/css/main.76598800.chunk.css",
-    "main.js": "/runnies_dapp_sol/static/js/main.452ff87d.chunk.js",
-    "main.js.map": "/runnies_dapp_sol/static/js/main.452ff87d.chunk.js.map",
+    "main.js": "/runnies_dapp_sol/static/js/main.c07dfc0b.chunk.js",
+    "main.js.map": "/runnies_dapp_sol/static/js/main.c07dfc0b.chunk.js.map",
     "runtime-main.js": "/runnies_dapp_sol/static/js/runtime-main.3d0b1207.js",
     "runtime-main.js.map": "/runnies_dapp_sol/static/js/runtime-main.3d0b1207.js.map",
     "static/js/2.7e33c0fe.chunk.js": "/runnies_dapp_sol/static/js/2.7e33c0fe.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3d0b1207.js",
     "static/js/2.7e33c0fe.chunk.js",
     "static/css/main.76598800.chunk.css",
-    "static/js/main.452ff87d.chunk.js"
+    "static/js/main.c07dfc0b.chunk.js"
   ]
 }
