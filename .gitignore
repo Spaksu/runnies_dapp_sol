@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/build
 /.pnp
 .pnp.js
 
@@ -24,3 +25,7 @@ yarn-error.log*
 .env
 .env.*
 !.env.example
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+
+build/Release
