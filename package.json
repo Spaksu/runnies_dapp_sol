@@ -44,6 +44,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "runnies_dapp_sol/",
   "browserslist": {
     "production": [
       ">0.2%",
