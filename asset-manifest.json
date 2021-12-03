@@ -9,14 +9,14 @@
     "static/js/2.9726ad40.chunk.js.map": "runnies_dapp_sol/static/js/2.9726ad40.chunk.js.map",
     "static/js/3.0b22b61d.chunk.js": "runnies_dapp_sol/static/js/3.0b22b61d.chunk.js",
     "static/js/3.0b22b61d.chunk.js.map": "runnies_dapp_sol/static/js/3.0b22b61d.chunk.js.map",
-    "index.html": "/index.html",
+    "index.html": "runnies_dapp_sol/index.html",
     "static/css/main.76598800.chunk.css.map": "runnies_dapp_sol/static/css/main.76598800.chunk.css.map",
     "static/js/2.9726ad40.chunk.js.LICENSE.txt": "runnies_dapp_sol/static/js/2.9726ad40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runnies_dapp_solstatic/js/runtime-main.c3d90bd8.js",
-    "runnies_dapp_solstatic/js/2.9726ad40.chunk.js",
-    "runnies_dapp_solstatic/css/main.76598800.chunk.css",
-    "runnies_dapp_solstatic/js/main.8ee5cc18.chunk.js"
+    "runnies_dapp_sol/static/js/runtime-main.c3d90bd8.js",
+    "runnies_dapp_sol/static/js/2.9726ad40.chunk.js",
+    "runnies_dapp_sol/static/css/main.76598800.chunk.css",
+    "runnies_dapp_sol/static/js/main.8ee5cc18.chunk.js"
   ]
 }
