@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/runnies_dapp_sol/static/css/main.76598800.chunk.css",
-    "main.js": "/runnies_dapp_sol/static/js/main.8ee5cc18.chunk.js",
-    "main.js.map": "/runnies_dapp_sol/static/js/main.8ee5cc18.chunk.js.map",
+    "main.js": "/runnies_dapp_sol/static/js/main.54582dae.chunk.js",
+    "main.js.map": "/runnies_dapp_sol/static/js/main.54582dae.chunk.js.map",
     "runtime-main.js": "/runnies_dapp_sol/static/js/runtime-main.3d0b1207.js",
     "runtime-main.js.map": "/runnies_dapp_sol/static/js/runtime-main.3d0b1207.js.map",
-    "static/js/2.ef4d8a4c.chunk.js": "/runnies_dapp_sol/static/js/2.ef4d8a4c.chunk.js",
-    "static/js/2.ef4d8a4c.chunk.js.map": "/runnies_dapp_sol/static/js/2.ef4d8a4c.chunk.js.map",
+    "static/js/2.304ef063.chunk.js": "/runnies_dapp_sol/static/js/2.304ef063.chunk.js",
+    "static/js/2.304ef063.chunk.js.map": "/runnies_dapp_sol/static/js/2.304ef063.chunk.js.map",
     "static/js/3.0b22b61d.chunk.js": "/runnies_dapp_sol/static/js/3.0b22b61d.chunk.js",
     "static/js/3.0b22b61d.chunk.js.map": "/runnies_dapp_sol/static/js/3.0b22b61d.chunk.js.map",
     "index.html": "/runnies_dapp_sol/index.html",
     "static/css/main.76598800.chunk.css.map": "/runnies_dapp_sol/static/css/main.76598800.chunk.css.map",
-    "static/js/2.ef4d8a4c.chunk.js.LICENSE.txt": "/runnies_dapp_sol/static/js/2.ef4d8a4c.chunk.js.LICENSE.txt"
+    "static/js/2.304ef063.chunk.js.LICENSE.txt": "/runnies_dapp_sol/static/js/2.304ef063.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3d0b1207.js",
-    "static/js/2.ef4d8a4c.chunk.js",
+    "static/js/2.304ef063.chunk.js",
     "static/css/main.76598800.chunk.css",
-    "static/js/main.8ee5cc18.chunk.js"
+    "static/js/main.54582dae.chunk.js"
   ]
 }
