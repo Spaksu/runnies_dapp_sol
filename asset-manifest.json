@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.76598800.chunk.css",
-    "main.js": "/static/js/main.8ee5cc18.chunk.js",
-    "main.js.map": "/static/js/main.8ee5cc18.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c3d90bd8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c3d90bd8.js.map",
-    "static/js/2.9726ad40.chunk.js": "/static/js/2.9726ad40.chunk.js",
-    "static/js/2.9726ad40.chunk.js.map": "/static/js/2.9726ad40.chunk.js.map",
-    "static/js/3.0b22b61d.chunk.js": "/static/js/3.0b22b61d.chunk.js",
-    "static/js/3.0b22b61d.chunk.js.map": "/static/js/3.0b22b61d.chunk.js.map",
+    "main.css": "runnies_dapp_sol/static/css/main.76598800.chunk.css",
+    "main.js": "runnies_dapp_sol/static/js/main.8ee5cc18.chunk.js",
+    "main.js.map": "runnies_dapp_sol/static/js/main.8ee5cc18.chunk.js.map",
+    "runtime-main.js": "runnies_dapp_sol/static/js/runtime-main.c3d90bd8.js",
+    "runtime-main.js.map": "runnies_dapp_sol/static/js/runtime-main.c3d90bd8.js.map",
+    "static/js/2.9726ad40.chunk.js": "runnies_dapp_sol/static/js/2.9726ad40.chunk.js",
+    "static/js/2.9726ad40.chunk.js.map": "runnies_dapp_sol/static/js/2.9726ad40.chunk.js.map",
+    "static/js/3.0b22b61d.chunk.js": "runnies_dapp_sol/static/js/3.0b22b61d.chunk.js",
+    "static/js/3.0b22b61d.chunk.js.map": "runnies_dapp_sol/static/js/3.0b22b61d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.76598800.chunk.css.map": "/static/css/main.76598800.chunk.css.map",
-    "static/js/2.9726ad40.chunk.js.LICENSE.txt": "/static/js/2.9726ad40.chunk.js.LICENSE.txt"
+    "static/css/main.76598800.chunk.css.map": "runnies_dapp_sol/static/css/main.76598800.chunk.css.map",
+    "static/js/2.9726ad40.chunk.js.LICENSE.txt": "runnies_dapp_sol/static/js/2.9726ad40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3d90bd8.js",
-    "static/js/2.9726ad40.chunk.js",
-    "static/css/main.76598800.chunk.css",
-    "static/js/main.8ee5cc18.chunk.js"
+    "runnies_dapp_solstatic/js/runtime-main.c3d90bd8.js",
+    "runnies_dapp_solstatic/js/2.9726ad40.chunk.js",
+    "runnies_dapp_solstatic/css/main.76598800.chunk.css",
+    "runnies_dapp_solstatic/js/main.8ee5cc18.chunk.js"
   ]
 }
