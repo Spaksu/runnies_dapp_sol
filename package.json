@@ -40,8 +40,8 @@
   },
   "eslintConfig": {
     "extends": [
-      "runnies_dapp_sol",
-      "runnies_dapp_sol/jest"
+      "react-app",
+      "react-app/jest"
     ]
   },
   "browserslist": {
